@@ -39,7 +39,8 @@ https://divvy-tripdata.s3.amazonaws.com/index.html
 - **Tableau Public**
   - Data visualization
   - Dashboard creation
-    
+    ![Tableau Dashboard](https://github.com/kumarsoham2004-commits/Cyclistic-Bike-Share-Analysis/blob/7e65b4ede2ea98c78b63570de43c927cac91a256/Cyclistic%20Bike%20Share%20Analysis%20Dashboard.png)
+
 
 ---
 
